@@ -31,7 +31,7 @@ twitter_username: mistymadonna
 github_username:  mistymadonna
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
